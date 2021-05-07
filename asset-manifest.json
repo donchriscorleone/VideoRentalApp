@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/VideoRentalApp/static/css/main.a8670578.chunk.css",
+    "main.js": "/VideoRentalApp/static/js/main.64181755.chunk.js",
+    "main.js.map": "/VideoRentalApp/static/js/main.64181755.chunk.js.map",
+    "runtime-main.js": "/VideoRentalApp/static/js/runtime-main.6e94ecdf.js",
+    "runtime-main.js.map": "/VideoRentalApp/static/js/runtime-main.6e94ecdf.js.map",
+    "static/js/2.1a9322c2.chunk.js": "/VideoRentalApp/static/js/2.1a9322c2.chunk.js",
+    "static/js/2.1a9322c2.chunk.js.map": "/VideoRentalApp/static/js/2.1a9322c2.chunk.js.map",
+    "static/js/3.1b56e181.chunk.js": "/VideoRentalApp/static/js/3.1b56e181.chunk.js",
+    "static/js/3.1b56e181.chunk.js.map": "/VideoRentalApp/static/js/3.1b56e181.chunk.js.map",
+    "static/js/4.3a4896f9.chunk.js": "/VideoRentalApp/static/js/4.3a4896f9.chunk.js",
+    "static/js/4.3a4896f9.chunk.js.map": "/VideoRentalApp/static/js/4.3a4896f9.chunk.js.map",
+    "static/js/5.3b8298aa.chunk.js": "/VideoRentalApp/static/js/5.3b8298aa.chunk.js",
+    "static/js/5.3b8298aa.chunk.js.map": "/VideoRentalApp/static/js/5.3b8298aa.chunk.js.map",
+    "index.html": "/VideoRentalApp/index.html",
+    "static/css/main.a8670578.chunk.css.map": "/VideoRentalApp/static/css/main.a8670578.chunk.css.map",
+    "static/js/2.1a9322c2.chunk.js.LICENSE.txt": "/VideoRentalApp/static/js/2.1a9322c2.chunk.js.LICENSE.txt",
+    "static/js/3.1b56e181.chunk.js.LICENSE.txt": "/VideoRentalApp/static/js/3.1b56e181.chunk.js.LICENSE.txt",
+    "static/js/4.3a4896f9.chunk.js.LICENSE.txt": "/VideoRentalApp/static/js/4.3a4896f9.chunk.js.LICENSE.txt",
+    "static/js/5.3b8298aa.chunk.js.LICENSE.txt": "/VideoRentalApp/static/js/5.3b8298aa.chunk.js.LICENSE.txt",
+    "static/media/community.587e9176.png": "/VideoRentalApp/static/media/community.587e9176.png",
+    "static/media/kim.f64e1434.jpg": "/VideoRentalApp/static/media/kim.f64e1434.jpg",
+    "static/media/pen.0c26fb1a.jpg": "/VideoRentalApp/static/media/pen.0c26fb1a.jpg",
+    "static/media/rent.f5f49267.png": "/VideoRentalApp/static/media/rent.f5f49267.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e94ecdf.js",
+    "static/js/3.1b56e181.chunk.js",
+    "static/css/main.a8670578.chunk.css",
+    "static/js/main.64181755.chunk.js"
+  ]
+}
